@@ -1,0 +1,15 @@
+C:\Users\Joao.roferreira\source\repos\cadastro_produtos_matriz\cadastro_produtos_matriz\obj\Debug\net6.0\cadastro_produtos_matriz.csproj.AssemblyReference.cache
+C:\Users\Joao.roferreira\source\repos\cadastro_produtos_matriz\cadastro_produtos_matriz\obj\Debug\net6.0\cadastro_produtos_matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao.roferreira\source\repos\cadastro_produtos_matriz\cadastro_produtos_matriz\obj\Debug\net6.0\cadastro_produtos_matriz.AssemblyInfoInputs.cache
+C:\Users\Joao.roferreira\source\repos\cadastro_produtos_matriz\cadastro_produtos_matriz\obj\Debug\net6.0\cadastro_produtos_matriz.AssemblyInfo.cs
+C:\Users\Joao.roferreira\source\repos\cadastro_produtos_matriz\cadastro_produtos_matriz\obj\Debug\net6.0\cadastro_produtos_matriz.csproj.CoreCompileInputs.cache
+C:\Users\Joao.roferreira\source\repos\cadastro_produtos_matriz\cadastro_produtos_matriz\bin\Debug\net6.0\cadastro_produtos_matriz.exe
+C:\Users\Joao.roferreira\source\repos\cadastro_produtos_matriz\cadastro_produtos_matriz\bin\Debug\net6.0\cadastro_produtos_matriz.deps.json
+C:\Users\Joao.roferreira\source\repos\cadastro_produtos_matriz\cadastro_produtos_matriz\bin\Debug\net6.0\cadastro_produtos_matriz.runtimeconfig.json
+C:\Users\Joao.roferreira\source\repos\cadastro_produtos_matriz\cadastro_produtos_matriz\bin\Debug\net6.0\cadastro_produtos_matriz.dll
+C:\Users\Joao.roferreira\source\repos\cadastro_produtos_matriz\cadastro_produtos_matriz\bin\Debug\net6.0\ref\cadastro_produtos_matriz.dll
+C:\Users\Joao.roferreira\source\repos\cadastro_produtos_matriz\cadastro_produtos_matriz\bin\Debug\net6.0\cadastro_produtos_matriz.pdb
+C:\Users\Joao.roferreira\source\repos\cadastro_produtos_matriz\cadastro_produtos_matriz\obj\Debug\net6.0\cadastro_produtos_matriz.dll
+C:\Users\Joao.roferreira\source\repos\cadastro_produtos_matriz\cadastro_produtos_matriz\obj\Debug\net6.0\ref\cadastro_produtos_matriz.dll
+C:\Users\Joao.roferreira\source\repos\cadastro_produtos_matriz\cadastro_produtos_matriz\obj\Debug\net6.0\cadastro_produtos_matriz.pdb
+C:\Users\Joao.roferreira\source\repos\cadastro_produtos_matriz\cadastro_produtos_matriz\obj\Debug\net6.0\cadastro_produtos_matriz.genruntimeconfig.cache
